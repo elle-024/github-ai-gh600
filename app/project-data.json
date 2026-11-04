@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Community Docs Refresh",
+      "owner": "Maya Chen",
+      "status": "In progress",
+      "recentActivity": "Navigation feedback incorporated; the contributor guide is ready for review.",
+      "priority": "High",
+      "summary": "Review the new setup guide and flag steps that are unclear for someone making their first contribution."
+    },
+    {
+      "name": "Open Data Explorer",
+      "owner": "Jordan Lee",
+      "status": "Needs contributors",
+      "recentActivity": "A first pass at the accessible filter panel was merged yesterday.",
+      "priority": "Medium",
+      "summary": "Help test the filter flow with keyboard navigation or pick up a small issue in the map legend."
+    },
+    {
+      "name": "Build Health Dashboard",
+      "owner": "Samira Patel",
+      "status": "On track",
+      "recentActivity": "The CI summary now groups flaky tests by workflow.",
+      "priority": "Low",
+      "summary": "Try the dashboard with a sample workflow and share ideas for making failures easier to scan."
+    },
+    {
+      "name": "Localization Toolkit",
+      "owner": "Alex Rivera",
+      "status": "Planning",
+      "recentActivity": "The team collected input from four language communities.",
+      "priority": "Medium",
+      "summary": "Contribute a use case from your localization workflow or review the draft contributor checklist."
+    }
+  ]
+}
